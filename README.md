@@ -1,4 +1,4 @@
-# Universal-Friends-API
+# Universal Friends API
 The Fabric Utility Mods' first community project!
 
 ## Usage
